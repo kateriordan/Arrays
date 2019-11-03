@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=int[]\ randomNumbers(int)
+comment1.params=arr
+comment1.target=void\ displayArray(int[])
+comment2.params=arr
+comment2.target=int\ calculateSum(int[])
+comment3.params=arr
+comment3.target=double\ calculateAverage(int[])
+comment4.params=arr
+comment4.target=long\ calculateProduct(int[])
+comment5.params=arr\ one\ two
+comment5.target=void\ swap(int[],\ int,\ int)
+comment6.params=arr
+comment6.target=void\ sortAscending(int[])
+numComments=7
